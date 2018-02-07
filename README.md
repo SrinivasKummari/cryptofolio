@@ -1,2 +1,2 @@
 # cryptofolio
-A crypto currency portfolio for individual users 
+A crypto currency portfolio for individuals 
